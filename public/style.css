@@ -11,12 +11,9 @@ body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
   background-color: lightgrey;
-<<<<<<< HEAD
    background-image: url(background.jpeg);
 }
 
 .img{
   margin-left: 7em;
-=======
->>>>>>> 8042c1b603b3db38a7273c3cd9075d9adefcfe58
 }
