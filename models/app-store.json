@@ -1,0 +1,17 @@
+{
+  "info": {
+    "appTitle": "CA1-App",
+    "version": 0.2,
+    "creators": [
+      {
+        "name": "Aisha Bertrandt",
+        "role": "Student"
+      },
+      {
+        "name": "A.N. Other",
+        "role": "Web Developer"
+      }
+    ],
+    "location": "Waterford"
+  } 
+}

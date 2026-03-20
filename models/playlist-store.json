@@ -1,0 +1,95 @@
+{
+  "playlistCollection": [
+    {
+      "id" : "01",
+      "title": "The Empyrean Series",
+      "songs": [
+        {
+          "id" : "04",
+          "title": "Fourth Wing",
+          "artist": "Rebecca Yarros"
+        },
+        {
+          "id" : "05",
+          "title": "Iron Flame",
+          "artist": "Rebecca Yarros"
+        },
+        {
+          "id" : "06",
+          "title": "Onyx Storm",
+          "artist": "Rebecca Yarros"
+        }
+      ]
+    },
+        {
+            "id": "02",
+            "title": "The Twisted Series",
+            "songs": [
+                {
+                    "id": "07",
+                    "title": "Twisted Love",
+                    "artist": "Ana Huang"
+                },
+                {
+                    "id": "08",
+                    "title": "Twisted Games",
+                    "artist": "Ana Huang"
+                },
+                {
+                    "id": "09",
+                    "title": "Twisted Hate",
+                    "artist": "Ana Huang"
+                },
+                {
+                    "id": "10",
+                    "title": "Twisted Lies",
+                    "artist": "Ana Huang"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "title": "The Dream Harbor Series",
+            "songs": [
+                {
+                    "id": "11",
+                    "title": "The Pumpkin Spice Café",
+                    "artist": "Laurie Gilmore"
+                },
+                {
+                    "id": "12",
+                    "title": "The Cinammon Bun Book Store",
+                    "artist": "Laurie Gilmore"
+                },
+                {
+                    "id": "13",
+                    "title": "The Christmas Tree Farm",
+                    "artist": "Laurie Gilmore"
+                },
+                {
+                    "id": "14",
+                    "title": "The Strawberry Patch Pancake House",
+                    "artist": "Laurie Gilmore"
+                },
+                {
+                    "id": "15",
+                    "title": "The Apple Pie Ice Cream Parlor",
+                    "artist": "Laurie Gilmore"
+                
+                },
+                {
+                    "id": "16",
+                    "title": "The Gingerbread Bakery",
+                    "artist": "Laurie Gilmore"
+                
+                },
+                {
+                    "id": "17",
+                    "title": "The Daisy Chain Flower Shop",
+                    "artist": "Laurie Gilmore"
+                
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "employees" : [
+       {
+        "name":"Aisha",
+        "fullname":"Aisha Bertrandt",
+        "image":"/me.jpeg",
+        "joined":2026,
+        "job":"Full-Time Student",
+        "city":"Waterford"
+       }
+      ]
+}
