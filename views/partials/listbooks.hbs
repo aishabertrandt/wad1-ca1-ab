@@ -1,4 +1,4 @@
-{{#if singlePlaylist.songs}}
+{{#if singleBooklist.books}}
 
   <table class="ui unstackable striped table">
     <thead>
@@ -8,13 +8,13 @@
       </tr>
     </thead>
     <tbody>
-      {{#each singlePlaylist.songs}}
+      {{#each singleBooklist.books}}
         <tr>
           <td>
             {{title}}
           </td>
           <td>
-            {{artist}}
+            {{author}}
           </td>
         </tr>
       {{/each}}
@@ -23,7 +23,7 @@
 
   {{else}}
     <h3 class="ui message">
-      Empty playlist!
+      Empty booklist!
     </h3>
 
 {{/if}}

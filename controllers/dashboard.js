@@ -1,7 +1,7 @@
 'use strict';
 
 import logger from "../utils/logger.js";
-import playlistStore from "../models/playlist-store.js";
+import booklistStore from "../models/booklist-store.js";
 
 const dashboard = {
   createView(request, response) {
@@ -9,10 +9,10 @@ const dashboard = {
     
     const viewData = {
       title: "Aisha's App Dashboard",
-      playlists: playlistStore.getAllPlaylists()
+      booklists: booklistStore.getAllBooklists()
     };
     
-    logger.debug(viewData.playlists);
+    logger.debug(viewData.booklists);
     
     response.render('dashboard', viewData);
   },
